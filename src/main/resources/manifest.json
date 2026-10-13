@@ -1,0 +1,17 @@
+{
+  "Group": "PontinoGames",
+  "Name": "AutoFurnace",
+  "Version": "1.3.1",
+  "Description": "Press Turn On once and your furnace relights itself whenever it has input, fuel and room in the output, until you press Turn Off.",
+  "Authors": [
+    {
+      "Name": "pontino"
+    }
+  ],
+  "Main": "games.pontino.autofurnace.AutoFurnacePlugin",
+  "ServerVersion": "*",
+  "Dependencies": {
+    "Hytale:BlockModule": "*",
+    "Hytale:Crafting": "*"
+  }
+}

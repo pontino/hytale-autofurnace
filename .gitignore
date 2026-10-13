@@ -1,0 +1,8 @@
+# JDK portable (scaricato in locale, vedi README)
+.tools/
+
+# Output di build
+build/
+
+# Server di test locale: contiene token di autenticazione, mondi e log
+testserver/
